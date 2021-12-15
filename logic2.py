@@ -5,9 +5,9 @@ c=[]
 sum=0
 i=0
 while i<n:
-    n1=int(input("enter a number"))
+    n1=int(input("enter the number"))
     a.append(n1)
-    n2=int(input("enter 2nd number"))
+    n2=int(input("enter the  2nd number"))
     b.append(n2)
     i=i+1
 j=0
